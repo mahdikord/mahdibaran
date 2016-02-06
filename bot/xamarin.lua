@@ -248,25 +248,15 @@ function create_config( )
     "plugins",
     "all",
     },
-    sudo_users = {119626024,0,tonumber(our_id)},--Sudo users
+    sudo_users = {77750573},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[⚡️ Xamarin Anti Spam Bot v1.6
-    
-  📢 Channel : @DarkBot
-  👤 Admin : @AmirDark
-  
-  🙏 Special Thanks to :
-  
-        @PokerFace_Dev
-        @ShahabDark
-        @MR_Flat
-        @SinAw1
+    about_text = [[aqa mp3 v.5.8
+  📢 Channel : @aqamp3
+  👤 Admin : @mahdimp3
         
 📝 Please send your feedback
 The command /feedback [text]
-  
-Checkout yon.ir/XamarinTG
 ]],
     help_text_realm = [[
   
