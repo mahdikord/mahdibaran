@@ -248,7 +248,7 @@ function create_config( )
     "plugins",
     "all",
     },
-    sudo_users = {77750573},--Sudo users
+    sudo_users = {165562299},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[aqa mp3 v.5.8
